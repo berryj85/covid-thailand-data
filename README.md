@@ -1,6 +1,6 @@
 Dumping Covid data
 ==================
                         
-build: #45
+build: #47
 
-build time: 2021-07-26 11:00:22
+build time: 2021-07-26 11:20:11
