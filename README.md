@@ -3,6 +3,6 @@ Dumping Covid data
                         
 data from: [https://covid19.th-stat.com](https://covid19.th-stat.com)
 
-build: #107
+build: #108
 
-build time: 2021-08-16 06:42:13
+build time: 2021-08-16 11:46:03
